@@ -2,7 +2,9 @@
 ![image](https://github.com/user-attachments/assets/dca0577d-9852-4a1a-8537-10e1c7b60868)
 
 ![image](https://github.com/user-attachments/assets/972302db-e923-40ae-817d-39b8e6afdde3)
+
 Đánh giá mô hình huấn luyện
+
 Trong phần này, mô hình huấn luyện sẽ được phân tích hiệu suất qua các bước thời gian đào tạo khác nhau. Ta đánh giá lối chơi của tác nhân và phân tích về những cải tiến quan sát được khi quá trình đào tạo tiến triển. 
  
 Đánh giá ở 10K bước: 
