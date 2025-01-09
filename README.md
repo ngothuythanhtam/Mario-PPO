@@ -1,6 +1,6 @@
 # Train AI how to play Super Mario Bros using PPO algorithm
 
-📺 Demo kết quả huấn luyện [https://www.youtube.com/playlist?list=PLfPyFobY2Dam27RAuSEKMUZ8SYC3yCVeO]
+👉 **[Demo kết quả huấn luyện](https://www.youtube.com/playlist?list=PLfPyFobY2Dam27RAuSEKMUZ8SYC3yCVeO)**
 
 ![image](https://github.com/user-attachments/assets/dca0577d-9852-4a1a-8537-10e1c7b60868)
 
